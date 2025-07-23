@@ -1,10 +1,10 @@
-# 📊 PPC Campaign Performance Dashboard
+#  PPC Campaign Performance Dashboard
 
 This Power BI project visualizes and analyzes **PPC (Pay-Per-Click)** campaign performance across multiple digital platforms, offering actionable insights into advertising effectiveness, audience engagement, and budget efficiency.
 
 ---
 
-## 🔍 Objective
+##  Objective
 
 To explore and answer key business questions such as:
 - Which platforms or content types deliver the best Return on Ad Spend (ROAS)?
@@ -15,7 +15,7 @@ To explore and answer key business questions such as:
 
 ---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 The dataset includes **1,000 rows** of PPC campaign performance data with these key features:
 -  **Date**: When the campaign data was recorded  
@@ -26,7 +26,7 @@ The dataset includes **1,000 rows** of PPC campaign performance data with these 
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 -  Some platforms offer **lower CPC** but **higher conversion rates**, optimizing acquisition cost.
 -  The **18–24 age group** often shows the highest impressions but not always the best ROAS.
@@ -35,7 +35,7 @@ The dataset includes **1,000 rows** of PPC campaign performance data with these 
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 1. **Ads Overview** – High-level performance trends over time.  
 2. **Platform Analysis** – Compare CPC, CPM, and ROAS across different platforms.  
@@ -44,7 +44,7 @@ The dataset includes **1,000 rows** of PPC campaign performance data with these 
 
 ---
 
-## 🖼️ Preview
+##  Preview
 
 <img width="1290" height="733" alt="image" src="https://github.com/user-attachments/assets/a0caa835-1c0c-470a-a8b6-791ca6108f06" />
 <img width="1290" height="733" alt="image" src="https://github.com/user-attachments/assets/0e3e1747-f82c-434e-9e70-e99b1370a4f3" />
@@ -52,25 +52,17 @@ The dataset includes **1,000 rows** of PPC campaign performance data with these 
 
 ---
 
-## 🧾 Download Dataset
+##  Download Dataset
 
 [Download the Excel dataset](ppc_campaign_performance_data.xlsx)
 
 ---
 
-## 🧑‍💻 How to Use
+##  How to Use
 
 1. Clone this repository.  
 2. Download `PPC_Campaign_Performance.pbix` and the dataset.  
 3. Open the Power BI file in Power BI Desktop.  
 4. Explore insights interactively.
 
----
 
-## 👤 About Me
-
-**Long Nguyen**  
-Triple major in Marketing, Business Analytics & Economic Consulting  
-Data-driven marketer passionate about turning complex data into actionable insights.  
-📍 [LinkedIn](https://www.linkedin.com/in/long-nguyen-/)  
-📧 longnguyen.hhoang@gmail.com
