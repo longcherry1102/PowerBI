@@ -5,7 +5,7 @@ An interactive Power BI dashboard for exploring Amazon sales data, revealing key
 ---
 ## Live Dashboard
 
-<a href="https://longcherry1102.github.io/amazon_sales/" target="_blank"><b>View Live Dashboard Here</b></a><br>
+<a href="https://longcherry1102.github.io/PowerBI/amazon_sales/" target="_blank"><b>View Live Dashboard Here</b></a><br>
 (Replace `https://your-username.github.io/amazon_sales/` with your actual GitHub Pages URL)
 
 ---
